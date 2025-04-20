@@ -1,0 +1,55 @@
+This part to be done on https://cse29-iiith.vlabs.ac.in/
+
+PART 1
+use cipher text which looks like
+dkxyvrh I - qegt vkr hxccwv keur: xuwdr wn cehrq nwvvwtp et vkr
+hwsrhcxto gwvk krh nwnvrh, gkrt nkr tevwdrn x vxuowtpj duevkrq gkwvr
+hxccwv gwvk x yedorv gxvdk hit yxnv. nkr leuuegn wv qegt x hxccwv keur
+gkrt niqqrtub nkr lxuun x uetp gxb ve x dihwein kxuu gwvk fxtb uedorq
+qeehn el xuu nwmrn. nkr lwtqn x nfxuu orb ve x qeeh vee nfxuu leh krh
+ve Iwv, civ vkheipk gkwdk nkr nrrn xt xvvhxdvwsr pxhqrt. nkr vkrt
+
+PART 2
+pasteh teh cipher text in box and stahrt replacin the manner
+Your replacement history:
+You replaced v by T 
+You replaced k by H 
+You replaced r by E 
+You replaced x by A 
+You replaced e by O 
+You replaced t by N 
+You replaced x by A 
+You replaced d by C 
+You replaced k by H 
+You replaced y by P 
+You replaced v by T 
+You replaced r by E 
+You replaced h by R 
+You replaced c by B 
+You replaced w by I 
+You replaced u by L 
+You replaced q by D 
+You replaced e by O 
+You replaced g by W 
+You replaced t by N 
+You replaced n by S 
+You replaced p by G 
+You replaced s by V 
+You replaced o by K 
+You replaced i by U 
+You replaced b by Y 
+You replaced I by F 
+You replaced f by M 
+You replaced m by Z
+
+final should loom like
+Scratchpad:
+CHAPTER 1 - DOWN THE RABBIT HOLE: ALICE IS BORED SITTING ON THE
+RIVERBANK WITH HER SISTER, SHE NOTICES A TALKING, CLOTHED WHITE
+RABBIT WITH A POCKET WATCH RUN PAST. SHE FOLLOWS IT DOWN A RABBIT HOLE
+SUDDENLY SHE FALLS A LONG NAY TO A CURIOUS HALL WITH MANY LOCKED
+DOORS OF ALL SIZES. SHE FINDS A SMALL KEY TO A DOOR TOO SNALL FOR HER TO
+FIT, BUT THROUGH HICH SHE SEES AN ATTRACTIVE GARDEN. SHE THEN DISCOVERS
+A BOTTLE LABELLED 'DRINK ME', THE CONTENTS OF 1-081CH CAUSE HER TO SHRINK
+TOO SMALL TO REACH THE KEY. A CAKE WITH 'EAT ME' ON IT CAUSES HER TO
+GROW TO SUCH A TREMENDOUS SIZE HER HEAD HITS THE CEILING.
