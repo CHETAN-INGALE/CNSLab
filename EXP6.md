@@ -1,6 +1,3 @@
-Certainly! Here's a comprehensive overview of the "From DES to 3-DES" experiment available on the Virtual Labs platform by IIIT Hyderabad. This includes the theoretical background and a step-by-step procedure to help you prepare for your practical exams.
-
-
 ## 🧪 Experiment: From DES to 3-DES
 
 ### 🎯 Aim
