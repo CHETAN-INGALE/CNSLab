@@ -64,3 +64,22 @@ Enter the ciphertext: OMRMPCSGPTER
 Enter the key: COMPUTER
 Decrypted message: COMMUNICATE
 '''
+
+'''
+The Playfair cipher is a digraph substitution cipher, meaning it encrypts pairs of letters instead of single letters. It was invented by Charles Wheatstone in 1854 but is named after Lord Playfair, who promoted its use.
+How It Works
+- A 5×5 grid is created using a keyword, filling in the remaining letters of the alphabet (I and J are treated as the same).
+- The plaintext is split into pairs of letters (digraphs).
+- Each pair is encrypted based on their positions in the grid:- If both letters are in the same row, replace them with the letters to their right.
+- If both letters are in the same column, replace them with the letters below.
+- If the letters form a rectangle, swap them with the letters in the opposite corners.
+
+
+Advantages
+- More secure than simple substitution ciphers.
+- Harder to break using frequency analysis since it works on digraphs instead of single letters.
+
+Disadvantages
+- Still vulnerable to cryptanalysis with enough ciphertext.
+- Requires memorizing or reconstructing the 5×5 grid for encryption and decryption.
+'''

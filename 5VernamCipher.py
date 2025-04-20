@@ -48,3 +48,23 @@ if __name__ == '__main__':
 Encrypted message: NHYY
 Decrypted message: MEET
 '''
+
+'''
+I think you meant the Vernam cipher, also known as the one-time pad! It's one of the most secure encryption methods ever devised.
+How It Works
+- Each letter in the plaintext is converted to a numerical value (A = 0, B = 1, ..., Z = 25).
+- A random key (equal in length to the plaintext) is generated.
+- Each letter in the plaintext is encrypted using the formula:[ E(x) = (x \oplus k) \mod 26 ]where:- ( x ) is the plaintext letter's numerical value.
+- ( k ) is the key letter's numerical value.
+- ( \oplus ) represents the XOR operation.
+
+- Decryption is done using the same XOR operation with the key.
+
+Advantages
+- Perfect secrecy - If the key is truly random and used only once, the cipher is unbreakable.
+- No patterns - Since the key is random, frequency analysis is useless.
+
+Disadvantages
+- Key management - The key must be as long as the message and must be securely shared.
+- One-time use - If the same key is reused, the encryption can be broken.
+'''
